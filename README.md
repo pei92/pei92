@@ -1,5 +1,4 @@
-### Hi there 👋
-(https://github.com/peipei-gx/github-profile-summary/blob/master/profile-summary-card-output/github/README.md)
+[![GITHUB](https://github.com/peipei-gx/github-profile-summary/blob/master/profile-summary-card-output/github/README.md)]
 <!--
 **peipei-gx/peipei-gx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
