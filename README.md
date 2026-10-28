@@ -20,7 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pei92&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pei92&hide_title=true&hide_border=true&show_icons=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+<p align="center">
+  <img
+    align="center"
+    height="135"
+    alt="pei92's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=pei92&hide_title=true&hide_border=true&show_icons=true&line_height=20&card_width=450&text_color=24292f&icon_color=0969da&ring_color=0969da&bg_color=0,e0f2fe,ede9fe&border_radius=10&disable_animations=true"
+  />
+  <img
+    align="center"
+    height="135"
+    alt="pei92's most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pei92&hide_title=true&hide_border=true&layout=compact&langs_count=6&card_width=300&text_color=24292f&bg_color=0,ede9fe,fce7f3&border_radius=10&disable_animations=true"
+  />
+</p>
